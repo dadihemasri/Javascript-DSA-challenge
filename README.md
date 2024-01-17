@@ -1,7 +1,7 @@
 # JavaScript DSA Challenge
 Welcome to my JavaScript DSA Challenge! This journey is designed  to learn Data Structures and Algorithms concepts through engaging and creative web applications. Each day, I'll be working on a new project every day to reinforce my understanding of fundamental programming concepts in JavaScript.This repository serves as a record of my daily progress as I build various projects from scratch to enhance my understanding of programming concepts using JavaScript.
 
-## [Day -1: Role Playing Game]([https://github.com/your-username/javascript-dsa-challenge/tree/master/Day-1_Role_Playing_Game](https://github.com/dadihemasri/Javascript-DSA-challenge/tree/main/Role%20Playing%20Game))
+## [Day -1: Role Playing Game]([https://github.com/dadihemasri/Javascript-DSA-challenge/tree/main/Role%20Playing%20Game])
 
 ### Overview
 
