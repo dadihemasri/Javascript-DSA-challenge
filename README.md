@@ -20,6 +20,8 @@ The goal of this project is to learn and reinforce fundamental programming conce
 By developing an RPG, I aim to not only enhance my coding skills but also to create a dynamic and interactive experience that incorporates the essence of storytelling within a game.
 ### 🌈 Day-1 Project Output
 <img width="491" alt="image" src="https://github.com/dadihemasri/Javascript-DSA-challenge/assets/85781102/eb8e889e-198f-45b3-b24d-b5c2c64c88dd">
+<img width="463" alt="image" src="https://github.com/dadihemasri/Javascript-DSA-challenge/assets/85781102/439e415d-1f9c-42af-9b7b-ddca94df79b0">
+
 
 
 ## How to Use 🛠️
