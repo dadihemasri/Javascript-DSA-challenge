@@ -14,24 +14,13 @@ In this initial practice project, I've decided to create a Role Playing Game. Th
 - Loops
 - If/else statements
 
-### Project Details
+## How to Use
 
-#### Repository Structure
-
-```plaintext
-javascript-dsa-challenge/
-|-- Day-1_Role_Playing_Game/
-    |-- index.html
-    |-- script.js
-    |-- styles.css
-|-- Day-2_Next_Project/
-    |-- ...
-|-- Day-3_Another_Project/
-    |-- ...
-|-- ...
-
+1. **Clone this Repository:**
+   ```bash
+   git clone https://github.com/your-username/javascript-dsa-challenge.git
+   
 ### How to Use
-
 1. Clone this repository to your local machine.
 2. Navigate to the "ROLE PLAYING GAME" folder.
 3. Open `index.html` in your web browser to experience the RPG I've created.
