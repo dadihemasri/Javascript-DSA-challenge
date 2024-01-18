@@ -27,64 +27,45 @@ By developing an RPG, I aim to not only enhance my coding skills but also to cre
 ### Overview 📜
 In the Day 2 project, I extended my coding practice by creating a Calorie Counter application. The purpose of this project is to apply and reinforce fundamental programming concepts in JavaScript while building a dynamic and interactive Calorie Counter.
 Throughout this project, I will be working with a variety of concepts, including:
-# Calorie Counter Project
-
-## Overview
-
-The Calorie Counter project is designed to provide a hands-on learning experience in JavaScript, focusing on key concepts to build an interactive web application. The project aims to ensure a thorough understanding and practical application of the following JavaScript concepts:
 
 ### 1. User Input Validation
-
 **Purpose:** Ensure valid user input.
-
 **Key Concepts:**
 - Regular Expressions
 - Input Sanitization
 
 ### 2. Dynamic Interface Update
-
 **Purpose:** Provide real-time feedback to users.
-
 **Key Concepts:**
 - DOM Manipulation
 - Template Literals
 
 ### 3. Event Handling
-
 **Purpose:** Respond to user interactions.
-
 **Key Concepts:**
 - addEventListener()
 - Event Object
 
 ### 4. Calculations and Logic
-
 **Purpose:** Derive meaningful results from user input.
-
 **Key Concepts:**
 - Mathematical Operations
 - Conditional Statements
 
 ### 5. Clearing Form and Resetting State
-
 **Purpose:** Allow users to start fresh.
-
 **Key Concepts:**
 - Reset Function
 - Class Manipulation
 
 ### 6. Interactive Web Application
-
 **Purpose:** Develop a user-friendly application.
-
 **Key Concepts:**
 - CSS Styling
 - User Feedback
 
 ### 7. Practical Application of JavaScript Concepts
-
 **Purpose:** Apply fundamental JavaScript concepts.
-
 **Key Concepts:**
 - Arrays
 - Strings
@@ -94,22 +75,18 @@ The Calorie Counter project is designed to provide a hands-on learning experienc
 - If/else statements
 
 ### 8. Web Application Flow
-
 **Purpose:** Define a logical flow for the application.
-
 **Key Concepts:**
 - Sequence of Actions
 
 ### 9. Alerts and Error Handling
-
 **Purpose:** Inform users and handle errors.
-
 **Key Concepts:**
 - alert()
 - Error Flags
+- 
 ### Day-2 Project Output
 The Calorie Counter application allows users to input their daily calorie budget, and track calories consumed during breakfast, lunch, dinner, snacks, and calories burned through exercise. The application calculates the remaining calories and provides a summary of the user's budget, consumed calories, and burned calories.
-
 
 ### 🌈 Project Screenshots
 
