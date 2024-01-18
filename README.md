@@ -89,6 +89,9 @@ Throughout this project, I will be working with a variety of concepts, including
 The Calorie Counter application allows users to input their daily calorie budget, and track calories consumed during breakfast, lunch, dinner, snacks, and calories burned through exercise. The application calculates the remaining calories and provides a summary of the user's budget, consumed calories, and burned calories.
 
 ### 🌈 Project Screenshots
+## Explore the live project [here](https://dadihemasri.github.io/Calorie-Counter-Project/)
+
+<img width="616" alt="image" src="https://github.com/dadihemasri/Calorie-Counter-Project/assets/85781102/da4794cf-4100-43dc-aed6-a58f7202ae07">
 
 ## How to Use 🛠️
 
