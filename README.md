@@ -102,6 +102,23 @@ The Calorie Counter application allows users to input their daily calorie budget
 
 <img width="616" alt="image" src="https://github.com/dadihemasri/Calorie-Counter-Project/assets/85781102/da4794cf-4100-43dc-aed6-a58f7202ae07">
 
+ ## 🌟 [Day -3: Music Player](https://github.com/dadihemasri/Javascript-DSA-challenge/tree/main/Music%20Player)
+
+### Overview 📜
+In the Day 3 project, I will be creating a basic MP3 player using HTML, CSS, and JavaScript. The project will cover essential string and array methods like `find()`, `forEach()`, `map()`, and `join()`. These methods are crucial for developing dynamic web applications.
+
+### Key Concepts Covered:
+- Handling audio playback
+- Managing a playlist
+- Implementing play, pause, next, previous, and shuffle functionalities
+- Dynamically updating the user interface based on the current song
+
+### 🌈 Project Screenshots
+Explore the live project [here](https://dadihemasri.github.io/MP3-MUSIC-PLAYER/).
+
+<!-- Add screenshots here -->
+<img width="518" alt="image" src="https://github.com/dadihemasri/Javascript-DSA-challenge/assets/85781102/4c1afb7a-6adf-42df-a374-42c5dc8545d8">
+
 ## How to Use 🛠️
 
 1. **Clone this Repository:**
