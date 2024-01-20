@@ -144,7 +144,7 @@ const year = currentDate.getFullYear();
 ```
 
 ### 🌈 Project Screenshots
-Explore the live project [here] (https://dadihemasri.github.io/Date-Formatter/).
+Explore the live project [here](https://dadihemasri.github.io/Date-Formatter/).
 
 <!-- Add screenshots here -->
 <img width="391" alt="image" src="https://github.com/dadihemasri/Javascript-DSA-challenge/assets/85781102/b0681e50-0e4c-4372-9c03-3498420cea6b">
