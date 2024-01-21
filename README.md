@@ -149,6 +149,35 @@ Explore the live project [here](https://dadihemasri.github.io/Date-Formatter/).
 <!-- Add screenshots here -->
 <img width="391" alt="image" src="https://github.com/dadihemasri/Javascript-DSA-challenge/assets/85781102/b0681e50-0e4c-4372-9c03-3498420cea6b">
 
+## 🌟 [Day -5: Palindrome Checker](https://github.com/dadihemasri/Javascript-DSA-challenge/tree/main/Palindrome%20Checker)
+
+### Overview 📜
+
+In the Day 5 project, I tackled the Palindrome Checker challenge, building a web application to determine whether a given input is a palindrome. A palindrome is a word or phrase that reads the same forward and backward, ignoring punctuation, case, and spacing.
+
+### Key Concepts Covered:
+- String Manipulation
+- Conditional Statements
+- DOM Manipulation
+
+### Implementation Details:
+
+#### 1. String Manipulation
+I employed various string manipulation techniques to remove non-alphanumeric characters, convert all characters to the same case, and check for palindromes.
+
+#### 2. Conditional Statements
+Utilizing conditional statements, I determined whether the input is a palindrome or not and updated the user interface accordingly.
+
+#### 3. DOM Manipulation
+The results were dynamically displayed on the webpage using DOM manipulation, providing real-time feedback to the user.
+
+### 🌈 Project Screenshots
+Explore the live project [here]( https://dadihemasri.github.io/Palindrome-Checker/).
+
+<!-- Add screenshots here -->
+<img width="616" alt="image" src="https://github.com/dadihemasri/Javascript-DSA-challenge/assets/85781102/aaafc4db-664f-4635-8e70-c9f2eb48fc20">
+
+
 
 ## How to Use 🛠️
 
