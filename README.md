@@ -177,6 +177,82 @@ Explore the live project [here]( https://dadihemasri.github.io/Palindrome-Checke
 <!-- Add screenshots here -->
 <img width="616" alt="image" src="https://github.com/dadihemasri/Javascript-DSA-challenge/assets/85781102/aaafc4db-664f-4635-8e70-c9f2eb48fc20">
 
+## 🌟 [Day - 6: Football Cards](https://github.com/dadihemasri/Javascript-DSA-challenge/tree/main/Football%20Cards)
+
+### Overview 📜
+
+In this Day-6 project, we're diving into the world of football cards. The goal is to create a web application that processes football team data and dynamically displays player information. You'll work on handling events, manipulating the Document Object Model (DOM), and filtering data based on specific criteria.
+
+### Key Concepts Covered:
+- Object Destructuring
+- Event Handling
+- Data Filtering
+- Switch Statements
+- Default Parameters
+
+### Implementation Details:
+
+#### 1. Object Destructuring
+Learn how to efficiently extract values from objects using object destructuring. This skill will be crucial in extracting player information from the football team dataset.
+
+#### 2. Event Handling
+Implement event handling to respond to user interactions. This will allow users to trigger actions like viewing detailed player information or applying filters.
+
+#### 3. Data Filtering
+Explore techniques to filter and display specific subsets of football player data. This involves creating a responsive interface that dynamically updates based on user preferences.
+
+#### 4. Switch Statements and Default Parameters
+Understand how to use switch statements and default parameters for efficient and structured code. These concepts will be applied in various aspects of the project for better control flow.
+
+#### 5. Object.freeze() and the map() Method
+Discover how to make objects immutable using Object.freeze() and utilize the map() method for transforming data. These techniques will contribute to building a robust and scalable application.
+
+### 🌈 Project Screenshots
+
+Visualize the live project [here](https://dadihemasri.github.io/FootBall-Cards/). 
+
+<!-- Add screenshots here -->
+<img width="907" alt="image" src="https://github.com/dadihemasri/Javascript-DSA-challenge/assets/85781102/3da0a28b-3417-4d16-b693-eac3f13a9694">
+
+## 🌟 [Day - 7: TODO App with Local Storage](https://github.com/dadihemasri/Javascript-DSA-challenge/tree/main/TODO%20APP)
+
+### Overview 📜
+
+In this project, we'll dive into creating a TODO application that harnesses the power of local storage. You'll learn how to handle form inputs, manage data persistently, and perform CRUD operations on tasks. The focus will be on implementing event listeners and toggling UI elements to enhance user experience.
+
+### Key Concepts Covered:
+- Form Input Handling
+- Local Storage Management
+- CRUD Operations (Create, Read, Update, Delete)
+- Event Listeners
+- UI Element Toggling
+
+### Implementation Details:
+
+#### 1. Form Input Handling
+Explore the process of capturing and processing user input from a form. Understand how to extract information efficiently and use it to create new tasks in the TODO list.
+
+#### 2. Local Storage Management
+Learn to utilize local storage to store and retrieve TODO tasks persistently. This will enable users to access their tasks even after closing and reopening the web application.
+
+#### 3. CRUD Operations
+Implement Create, Read, Update, and Delete operations on TODO tasks. Users will have the ability to add new tasks, mark them as completed, edit existing tasks, and remove tasks from the list.
+
+#### 4. Event Listeners
+Implement event listeners to respond to user actions effectively. This includes triggering actions such as task creation, completion, editing, and deletion.
+
+#### 5. UI Element Toggling
+Enhance the user interface by dynamically toggling elements based on the application's state. This will provide a seamless and intuitive user experience.
+
+### 🌈 Project Screenshots
+View the live project [here](https://dadihemasri.github.io/TODO-app/).
+
+<!-- Add screenshots here -->
+<img width="643" alt="image" src="https://github.com/dadihemasri/Javascript-DSA-challenge/assets/85781102/22287bbb-f8fc-4f7a-ba70-06cedb52e1b1">
+
+
+
+
 
 
 ## How to Use 🛠️
