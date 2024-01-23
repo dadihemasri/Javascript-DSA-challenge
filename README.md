@@ -279,4 +279,11 @@ javascript-dsa-challenge/
 ## 🚧 Future Projects
 Stay tuned for daily updates as I add new projects to this repository. Each project is crafted to build on the concepts I've learned, providing a comprehensive learning experience in JavaScript and Data Structures/Algorithms.
 
+## Connect with Me 🌐
+
+If you have any questions or suggestions, feel free to reach out:
+
+- Email: [dadihemasri1202@gmail.com]
+- LinkedIn: [https://www.linkedin.com/in/dadihemasri/]
+  
 Happy coding! 🎉
