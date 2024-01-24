@@ -250,9 +250,41 @@ View the live project [here](https://dadihemasri.github.io/TODO-app/).
 <!-- Add screenshots here -->
 <img width="643" alt="image" src="https://github.com/dadihemasri/Javascript-DSA-challenge/assets/85781102/22287bbb-f8fc-4f7a-ba70-06cedb52e1b1">
 
+### 🌟 [Day 8: Decimal to Binary Converter](https://github.com/dadihemasri/Javascript-DSA-challenge/tree/main/DecimalToBinaryConverter)
 
+#### Overview 📜
 
+In this project, you will be diving into the fascinating world of recursion. Recursion is a programming concept where a function calls itself, allowing you to break down a complex problem into simpler sub-problems. The goal is to build a decimal-to-binary converter using JavaScript. This project will not only enhance your understanding of recursion but also provide insights into the call stack and allow you to visualize the recursion process through an animation.
 
+#### Project Highlights 🚀
+
+1. **Recursion Fundamentals**: You'll delve into the fundamentals of recursion, understanding how a function can call itself to solve a problem.
+
+2. **Decimal-to-Binary Conversion**: The main objective is to create a converter that takes a decimal number as input and outputs its binary representation.
+
+3. **Visual Representation**: Through the use of animations, you will visually represent the recursion process. This adds an extra layer to your learning by making abstract concepts more tangible.
+
+4. **SetTimeout Function**: You'll utilize the `setTimeout` function to create a step-by-step animation, allowing you to observe the changes in the call stack.
+
+5. **Call Stack Exploration**: Gain insights into the call stack, understanding how it behaves during recursive function calls.
+
+6. **Stack Methods**: Explore and use stack-related methods to manage the recursion process effectively.
+
+#### Project Link and Screenshots 🖥️
+
+Explore the live project [here](https://dadihemasri.github.io/DecimalToBinaryConverter/).
+<!-- Add Screenshots -->
+
+<img width="664" alt="image" src="https://github.com/dadihemasri/Javascript-DSA-challenge/assets/85781102/1bd1d0d6-8898-44f2-9945-e83a987794a5">
+<img width="681" alt="image" src="https://github.com/dadihemasri/Javascript-DSA-challenge/assets/85781102/61e79c50-1584-4be8-baed-c5afc187d76c">
+
+#### Technologies and Concepts 🛠️
+
+- JavaScript
+- Recursion
+- `setTimeout` function
+- Call stack
+- Stack methods
 
 
 ## How to Use 🛠️
